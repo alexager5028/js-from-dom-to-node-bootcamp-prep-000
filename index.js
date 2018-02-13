@@ -1,4 +1,4 @@
-myStr = "hi!!!!
+var myStr = "hi!!!!
 
  myStr = myStr.replace(/!/g "")
 
