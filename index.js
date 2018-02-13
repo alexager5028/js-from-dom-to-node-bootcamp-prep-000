@@ -1,4 +1,4 @@
 myStr = "hi!!!!
 
-  myStr.replace(/!/ "");
+ myStr = myStr.replace(/!/ "");
 
