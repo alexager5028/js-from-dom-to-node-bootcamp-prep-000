@@ -1,1 +1,3 @@
-myStr = ["hii"]
+myStr = "hi!!!!
+
+
