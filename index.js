@@ -1,5 +1,4 @@
 myStr = "hi!!!!
 
-myStr.replace(/!/g "");
+  myStr.replace(/!/g "");
 
-console.log(myStr);
