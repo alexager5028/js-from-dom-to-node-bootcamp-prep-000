@@ -1,4 +1,4 @@
-var myStr = "hi!!!!";
+let myStr = "hi!!!!";
 
  return myStr.replace("!!!", "");
 
