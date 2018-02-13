@@ -1,4 +1,4 @@
 var myStr = "hi!!!!
 
- myStr = myStr.replace(/!/i, "")
+ myStr = myStr.replace(!!!!, "")
 
